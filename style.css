@@ -131,7 +131,7 @@ hr{
     font-size: 25px;
     font-weight:bold;
 }
-@media screen and (max-width:375px){
+@media screen and (max-width:600px){
     body{
         width:100%;
         margin: 0;
